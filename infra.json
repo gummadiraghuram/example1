@@ -1,5 +1,5 @@
 {
-  "honesty": "Apple Jack",
-  "laughter": "Pinkie Pie",
-  "loyalty": "Rainbow Dash"
+  "type": "Linux",
+  "state": "Active",
+  "Deployment": "NRSANDPIT7.5"
 }
