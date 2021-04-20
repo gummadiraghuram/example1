@@ -1,8 +1,5 @@
-[{
-  "ParameterKey": "Project",
-  "ParameterValue": "<changeMe>"
- }, 
- {
-  "ParameterKey": "DockerInstanceType",
-  "ParameterValue": "m3.medium"
-}]
+{
+  "honesty": "Apple Jack",
+  "laughter": "Pinkie Pie",
+  "loyalty": "Rainbow Dash"
+}
