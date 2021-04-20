@@ -1,6 +1,8 @@
-{
-        "type" : "Linux",
-        "state" : "Active",
-        "Deployment" : "NRSANDPIT7.5"
-    }
-    
+[{
+  "ParameterKey": "Project",
+  "ParameterValue": "<changeMe>"
+ }, 
+ {
+  "ParameterKey": "DockerInstanceType",
+  "ParameterValue": "m3.medium"
+}]
