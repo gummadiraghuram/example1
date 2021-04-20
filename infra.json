@@ -1,5 +1,6 @@
 {
-        "type" : "sandpit_1",
-        "code" : "QpiAc"
+        "type" : "Linux",
+        "state" : "Active"
+        "Deployment" : "NRSANDPIT7.5"
     }
     
