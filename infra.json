@@ -2,4 +2,9 @@
   "type": "Linux",
   "state": "Active",
   "Deployment": "NRSANDPIT7.5"
+},
+{
+  "type": "Sparrow",
+  "state": "Active",
+  "Deployment": "NRSANDPIT7.6"
 }
