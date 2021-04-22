@@ -1,5 +1,5 @@
 {
   "type": "Linux",
-  "state": "Active",
+  "state": "Provision",
   "Deployment": "NRSANDPIT7.5"
 }
